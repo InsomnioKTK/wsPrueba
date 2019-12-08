@@ -1,0 +1,4 @@
+https://www.mkyong.com/webservices/jax-ws/jax-ws-spring-integration-example/
+
+
+http://localhost:8080/wsPrueba/bicicletas?wsdl
